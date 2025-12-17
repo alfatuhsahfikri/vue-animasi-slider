@@ -2,7 +2,7 @@
   <div class="container">
     <div class="content-card">
       <h1>This About Page</h1>
-      <p>Ini adalah Animasi-slider.app sederhana dengan menggunakan Vite dan Framework Vuejs-3</p>
+      <p>Ini adalah Animasi-slider.app sederhana dengan menggunakan CSS-animation,JavaScript, Vite, dan Framework Vuejs-3</p>
       <hr />
       <span>
         Copy Paste &copy;<a href="https://www.instagram.com/mr.sahfikri/">Koding Sebelum Tidur</a>
